@@ -13,3 +13,8 @@
 [2026-06-09 16:10:15,892: INFO: common: created directory at: artifacts]
 [2026-06-09 16:10:15,892: INFO: common: created directory at: artifacts/data_transformation]
 [2026-06-09 16:10:20,479: INFO: main: Stage Data Transformation stage Completed]
+[2026-06-09 16:21:33,449: INFO: config: PyTorch version 2.2.2 available.]
+[2026-06-09 16:31:03,570: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2026-06-09 16:31:03,576: INFO: common: yaml file: params.yaml loaded successfully]
+[2026-06-09 16:31:03,578: INFO: common: created directory at: artifacts]
+[2026-06-09 16:31:03,580: INFO: common: created directory at: artifacts/model_trainer]
