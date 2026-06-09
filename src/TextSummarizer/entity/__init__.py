@@ -5,3 +5,9 @@ from pathlib import Path
 class DataIngestionConfig:
     root_dir: Path
     local_data_file: Path
+
+@dataclass
+class DataTransformationConfig:
+    root_dir: Path
+    data_path: Path
+    tokenizer_name: Path
